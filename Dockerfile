@@ -1,4 +1,4 @@
-FROM debian:unstable
+FROM debian:sid
 MAINTAINER Yohann Lepage <yohann@lepage.info>
 ENV DEBIAN_FRONTEND noninteractive
 
