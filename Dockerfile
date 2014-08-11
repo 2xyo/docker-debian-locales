@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:testing
 MAINTAINER Yohann Lepage <yohann@lepage.info>
 ENV DEBIAN_FRONTEND noninteractive
 
