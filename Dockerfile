@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM debian:jessie
 MAINTAINER Yohann Lepage <yohann@lepage.info>
 ENV DEBIAN_FRONTEND noninteractive
 
